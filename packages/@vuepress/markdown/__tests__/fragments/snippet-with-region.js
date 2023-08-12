@@ -6,12 +6,12 @@ function foo () {
       '/': {
         lang: 'zh-CN',
         title: '题海',
-        description: '让大学四年没有难题！'
+        description: '让大学四年没有难题'
       },
       '/zh/': {
         lang: 'zh-CN',
         title: '题海',
-        description: '让大学四年没有难题！'
+        description: '让大学四年没有难题'
       }
     },
     head: [
