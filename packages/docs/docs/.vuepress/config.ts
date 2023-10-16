@@ -7,6 +7,7 @@ import {
 } from './config/index'
 
 export = defineConfig(ctx => ({
+  base: '/itihey-docs/',
   theme: '@vuepress/vue',
   dest: '../../vuepress',
   head: [
